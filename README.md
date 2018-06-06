@@ -36,3 +36,6 @@ Credits
 - Zheng He
 - Shaoqing Long
 - Allen Hao
+
+
+https://travis-ci.org/matrixhaolin/MatrixAIPoC.svg?branch=master
